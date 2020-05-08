@@ -2,8 +2,8 @@ import os
 import sys
 
 os.system('clear')
-os.system\033[0;32m('figlet Hack FB')
-print "------------------------------------------"                                                                    print "Author :Mr.g4l4ng"
+os.system('\033[0;32mfiglet Hack FB')
+print "------------------------------------------"
 print "\033[0;32mAuthor :Mr.G4L4N9
 print "\033[0;32myoutube:JKT Your Gaming"
 print "\033[0;32mGithub :https://github.com/kepo55"
