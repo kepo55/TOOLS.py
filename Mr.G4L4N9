@@ -1,0 +1,15 @@
+import os
+import sys
+
+os.system('clear')
+os.system\033[0;32m('figlet Hack FB')
+print "------------------------------------------"                                                                    print "Author :Mr.g4l4ng"
+print "\033[0;32mAuthor :Mr.G4L4N9
+print "\033[0;32myoutube:JKT Your Gaming"
+print "\033[0;32mGithub :https://github.com/kepo55"
+print "------------------------------------------"
+print
+print "\033[0;32m[+] menu pilihan [+]"
+print "\033[0;32m[1] hack fecebok"
+print "\033[0;32m[2] spam jdid"
+print "\033[0;32m[3] hack pulsa"
